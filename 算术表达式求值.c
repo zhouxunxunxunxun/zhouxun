@@ -1,4 +1,4 @@
-c...
+
 #include<stdio.h>
 #include<stdlib.h>
 #define OK      1
@@ -357,4 +357,3 @@ int main(){
     return 0;
 
 }
-...c
